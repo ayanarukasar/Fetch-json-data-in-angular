@@ -1,0 +1,30 @@
+[{
+    "id":1,
+    "name":"Ayana",
+    "email":"ayana.rukasar@capgemini.com",
+    "gender":"female"
+},
+{
+    "id":2,
+    "name":"Aamir",
+    "email":"aamir@capgemini.com",
+    "gender":"male"
+},
+{
+    "id":3,
+    "name":"Aqib",
+    "email":"aqib@gmail.com",
+    "gender":"male"
+},
+{
+    "id":4,
+    "name":"Sanobar",
+    "email":"sanobar.aslam@wipro.com",
+    "gender":"female"
+},
+{
+    "id":5,
+    "name":"Shahid",
+    "email":"shahid@tcs.com",
+    "gender":"male"
+}]
